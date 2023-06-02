@@ -1,1 +1,3 @@
 node_modules
+
+git remote add origin https://personal@github.com/sj-land/git-demo.git
