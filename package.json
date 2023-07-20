@@ -19,5 +19,8 @@
   "homepage": "https://github.com/sunj-land/git-demo#readme",
   "dependencies": {
     "husky": "^8.0.3"
+  },
+  "devDependencies": {
+    "commitlint": "^17.6.7"
   }
 }
